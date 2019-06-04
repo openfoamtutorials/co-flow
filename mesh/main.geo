@@ -1,6 +1,6 @@
 // Input parameters.
 radius = 0.001; // m
-cross_section_lc = 0.05 * radius; // m
+cross_section_lc = 0.08 * radius; // m
 tube_length = 10 * radius; // m
 length_wise_cells = 50; // m
 
