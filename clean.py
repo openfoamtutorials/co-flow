@@ -13,5 +13,6 @@ for f in folders:
         os.system("rm -r case/" + f)
 os.system("rm main.msh")
 os.system("rm case/0/alpha.water")
+os.system("rm case/*.OpenFOAM")
 os.system("rm -r case/constant/polyMesh")
 
